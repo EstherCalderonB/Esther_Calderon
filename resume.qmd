@@ -1,87 +1,136 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: "Esther Calderon Batista"
+subtitle: "Business Analyst | Data Visualization | Forecasting Enthusiast"
+author: "Esther Calderon Batista"
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Esther Calderon
+Business Analytics minor Finance.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:esthercalderonb03@email.com">esthercalderonb03@gmail.com</a> |
+  <a href="www.linkedin.com/in/esther-calderon">LinkedIn Profile</a> |
+  <a href="https://github.com/EstherCalderonB">GitHub</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Final-Semester Business Analytics student at BYU-Idaho, aspiring to use data to solve real-world business problems globally.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data visualization, dashboard creation, storytelling with data, and turning messy datasets into actionable insights using Python, R, SQL, Tableau, Power BI, and Excel.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Fitness analytics (especially glute-focused programs), personal finance insights for young professionals, skincare and cosmetic product performance, and social media trends related to health, beauty, and consumer behavior.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2021 - July 2025`  
+__Brigham Young University - Idaho__  
+- B.S. in Business Analytics  
+- Minor in Finance  
+- Teaching Assistant for Business Analysis and Advanced Spreadsheet Tools 
 
 
+## Notable Projects
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+- **Train Smart, Train Even**  
+  Analysis of muscle imbalances based on workout data; presented findings via dashboard and narrative report.
 
-Associate, *French Academy of Science*, Paris, France
+- **Water Microplastics in 3 Countries**  
+  ANOVA analysis of microplastic contamination levels in drinking water; built visual dashboard in R.
 
 
 
-## Publications
+### Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Advanced Spreadsheet Analysis TA  
+**Brigham Young University–Idaho** — Rexburg, ID  
+*Jan 2024 – Present*  
+- Evaluated 3,700+ student Excel models, focusing on dynamic dashboards and scenario analysis aligned with business intelligence principles.  
+- Provided personalized support to 100+ students on advanced Excel features like VBA, Power Query, and INDEX-MATCH.  
+- Oversaw 2,400 mini-projects simulating real-world business cases such as inventory control, sales forecasting, and financial modeling.
 
-### Journals
+### International Finance Operations – LUF  
+**The Church of Jesus Christ of Latter-Day Saints** — Salt Lake City, UT  
+*Jul 2024 – Dec 2024*  
+- Partnered with finance and audit teams to improve monthly closing processes by analyzing trends and optimizing reporting workflows.  
+- Used Power BI to build interactive visual reports, reducing unresolved transactions by 30%.  
+- Audited 500+ financial transactions daily, resolving discrepancies and contributing to regulatory compliance and process improvements.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### Business Analysis TA  
+**Brigham Young University–Idaho** — Rexburg, ID  
+*Jan 2024 – Apr 2024*  
+- Mentored students in using Power BI and Tableau to deliver clear data-driven narratives.  
+- Reviewed and coached 100+ business analysis projects, emphasizing insight generation and actionable recommendations.
 
-`1669`
-Lectiones opticæ.
+### Financial Aid Specialist  
+**Brigham Young University–Idaho** — Rexburg, ID  
+*Dec 2021 – Jan 2024*  
+- Administered and processed 5,000+ federal and institutional aid packages in full compliance with policy.  
+- Conducted thorough audits on student accounts to catch errors and enforce eligibility rules.  
+- Provided front-line financial counseling to students while ensuring data accuracy and confidentiality.
 
-etc. etc. etc.
+## Tools & Skills
 
-### Patents
+### Data Analysis & Business Intelligence
+- Data Cleaning & Preparation  
+- Business Intelligence (BI) Reporting  
+- Dashboard Development  
+- Forecasting & Statistical Analysis  
+- Data Storytelling & Insight Generation
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Technical Tools
+- **Power BI** (DAX)  
+- **Tableau**  
+- **Excel** (Advanced: VBA, Power Query, INDEX-MATCH)  
+- **SQL**  
+- **Python** (Pandas)  
+- **R** (tidyverse)
+
+### Financial & Modeling
+- Financial Modeling  
+- Compliance Review  
+- Audit Procedures  
+- Federal Financial Aid Calculations
+
+###  Collaboration & Version Control
+- Slack  
+- GitHub  
+- Google Workspace  
+- Microsoft Teams
+
+###  Languages
+- English (Fluent)  
+- Spanish (Native)
 
 
-## Occupation
+## Looking For
 
-`1600`
-__Royal Mint__, London
+As a soon-to-be Business Analytics graduate, I am actively seeking **remote or hybrid opportunities**—whether based in the U.S. or internationally—that allow me to grow as an analyst while making a real impact through data. I'm open to diverse roles such as:
 
-- Warden
-- Minted coins
+- **Business Analyst**  
+- **Data Analyst**  
+- **Financial Analyst**  
+- **Corporate Strategy Analyst**  
+- **Operations or Forecasting Analyst**
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+I'm particularly excited about positions that involve **forecasting, financial modeling, and trend analysis**, as I've discovered a strong passion for anticipating business outcomes through historical data and visual storytelling. Whether it's optimizing processes, guiding strategic decisions, or identifying performance drivers, I love using tools like **Excel, SQL, and Python** to explore the "why" behind the numbers.
 
+I'm also eager to explore industries that align with my personal interests, such as:
+- **Fitness and wellness** (tracking outcomes, program effectiveness)
+- **Finance and investment** (cash flow insights, budgeting models)
+- **Consumer products and cosmetics** (analyzing trends, user engagement)
+- **Social media and digital platforms** (audience metrics, engagement patterns)
+
+I thrive in environments that encourage curiosity, cross-functional collaboration, and continuous learning. I'm especially drawn to **remote-first companies** that value diversity, mentorship, and innovation.
+
+If you're looking for a motivated, tech-savvy analyst who brings energy, empathy, and a strong data foundation—I’m ready to contribute and grow with your team.
 
 
 <!-- ### Footer

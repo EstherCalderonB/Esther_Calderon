@@ -1,128 +1,226 @@
 [
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
+    "objectID": "UNTITLE.html",
+    "href": "UNTITLE.html",
+    "title": "Your_Name - Data Science Portfolio",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
+    "text": "Back to top"
   },
   {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
       "Project 3"
     ]
   },
   {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Machine Learning",
-      "Project 1"
+      "Project 2"
     ]
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
+    "text": "MarkDown Basics"
   },
   {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
       "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
+      "Project 2"
     ]
   },
   {
@@ -148,220 +246,129 @@
     ]
   },
   {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competitions",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Exploration",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Exploration",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Exploration",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competitions",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competitions",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Full Stack",
-      "Project 2"
+      "Project 1"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
   },
   {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Machine Learning",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
       "Project 1"
     ]
   },
   {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Esther Calderon Batista",
+    "section": "",
+    "text": "Business Analytics minor Finance.\n\nesthercalderonb03@gmail.com | LinkedIn Profile | GitHub\n\n\n\nFinal-Semester Business Analytics student at BYU-Idaho, aspiring to use data to solve real-world business problems globally.\n\n\nData visualization, dashboard creation, storytelling with data, and turning messy datasets into actionable insights using Python, R, SQL, Tableau, Power BI, and Excel.\n\n\n\nFitness analytics (especially glute-focused programs), personal finance insights for young professionals, skincare and cosmetic product performance, and social media trends related to health, beauty, and consumer behavior.\n\n\n\n\n2021 - July 2025\nBrigham Young University - Idaho\n- B.S. in Business Analytics\n- Minor in Finance\n- Teaching Assistant for Business Analysis and Advanced Spreadsheet Tools\n\n\n\n\nTrain Smart, Train Even\nAnalysis of muscle imbalances based on workout data; presented findings via dashboard and narrative report.\nWater Microplastics in 3 Countries\nANOVA analysis of microplastic contamination levels in drinking water; built visual dashboard in R.\n\n\n\n\n\n\nBrigham Young University–Idaho — Rexburg, ID\nJan 2024 – Present\n- Evaluated 3,700+ student Excel models, focusing on dynamic dashboards and scenario analysis aligned with business intelligence principles.\n- Provided personalized support to 100+ students on advanced Excel features like VBA, Power Query, and INDEX-MATCH.\n- Oversaw 2,400 mini-projects simulating real-world business cases such as inventory control, sales forecasting, and financial modeling.\n\n\n\nThe Church of Jesus Christ of Latter-Day Saints — Salt Lake City, UT\nJul 2024 – Dec 2024\n- Partnered with finance and audit teams to improve monthly closing processes by analyzing trends and optimizing reporting workflows.\n- Used Power BI to build interactive visual reports, reducing unresolved transactions by 30%.\n- Audited 500+ financial transactions daily, resolving discrepancies and contributing to regulatory compliance and process improvements.\n\n\n\nBrigham Young University–Idaho — Rexburg, ID\nJan 2024 – Apr 2024\n- Mentored students in using Power BI and Tableau to deliver clear data-driven narratives.\n- Reviewed and coached 100+ business analysis projects, emphasizing insight generation and actionable recommendations.\n\n\n\nBrigham Young University–Idaho — Rexburg, ID\nDec 2021 – Jan 2024\n- Administered and processed 5,000+ federal and institutional aid packages in full compliance with policy.\n- Conducted thorough audits on student accounts to catch errors and enforce eligibility rules.\n- Provided front-line financial counseling to students while ensuring data accuracy and confidentiality.\n\n\n\n\n\n\n\nData Cleaning & Preparation\n\nBusiness Intelligence (BI) Reporting\n\nDashboard Development\n\nForecasting & Statistical Analysis\n\nData Storytelling & Insight Generation\n\n\n\n\n\nPower BI (DAX)\n\nTableau\n\nExcel (Advanced: VBA, Power Query, INDEX-MATCH)\n\nSQL\n\nPython (Pandas)\n\nR (tidyverse)\n\n\n\n\n\nFinancial Modeling\n\nCompliance Review\n\nAudit Procedures\n\nFederal Financial Aid Calculations\n\n\n\n\n\nSlack\n\nGitHub\n\nGoogle Workspace\n\nMicrosoft Teams\n\n\n\n\n\nEnglish (Fluent)\n\nSpanish (Native)\n\n\n\n\n\nAs a soon-to-be Business Analytics graduate, I am actively seeking remote or hybrid opportunities—whether based in the U.S. or internationally—that allow me to grow as an analyst while making a real impact through data. I’m open to diverse roles such as:\n\nBusiness Analyst\n\nData Analyst\n\nFinancial Analyst\n\nCorporate Strategy Analyst\n\nOperations or Forecasting Analyst\n\nI’m particularly excited about positions that involve forecasting, financial modeling, and trend analysis, as I’ve discovered a strong passion for anticipating business outcomes through historical data and visual storytelling. Whether it’s optimizing processes, guiding strategic decisions, or identifying performance drivers, I love using tools like Excel, SQL, and Python to explore the “why” behind the numbers.\nI’m also eager to explore industries that align with my personal interests, such as: - Fitness and wellness (tracking outcomes, program effectiveness) - Finance and investment (cash flow insights, budgeting models) - Consumer products and cosmetics (analyzing trends, user engagement) - Social media and digital platforms (audience metrics, engagement patterns)\nI thrive in environments that encourage curiosity, cross-functional collaboration, and continuous learning. I’m especially drawn to remote-first companies that value diversity, mentorship, and innovation.\nIf you’re looking for a motivated, tech-savvy analyst who brings energy, empathy, and a strong data foundation—I’m ready to contribute and grow with your team."
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Esther Calderon Batista",
+    "section": "",
+    "text": "Final-Semester Business Analytics student at BYU-Idaho, aspiring to use data to solve real-world business problems globally.\n\n\nData visualization, dashboard creation, storytelling with data, and turning messy datasets into actionable insights using Python, R, SQL, Tableau, Power BI, and Excel.\n\n\n\nFitness analytics (especially glute-focused programs), personal finance insights for young professionals, skincare and cosmetic product performance, and social media trends related to health, beauty, and consumer behavior."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Esther Calderon Batista",
+    "section": "",
+    "text": "2021 - July 2025\nBrigham Young University - Idaho\n- B.S. in Business Analytics\n- Minor in Finance\n- Teaching Assistant for Business Analysis and Advanced Spreadsheet Tools"
+  },
+  {
+    "objectID": "resume.html#notable-projects",
+    "href": "resume.html#notable-projects",
+    "title": "Esther Calderon Batista",
+    "section": "",
+    "text": "Train Smart, Train Even\nAnalysis of muscle imbalances based on workout data; presented findings via dashboard and narrative report.\nWater Microplastics in 3 Countries\nANOVA analysis of microplastic contamination levels in drinking water; built visual dashboard in R.\n\n\n\n\n\n\nBrigham Young University–Idaho — Rexburg, ID\nJan 2024 – Present\n- Evaluated 3,700+ student Excel models, focusing on dynamic dashboards and scenario analysis aligned with business intelligence principles.\n- Provided personalized support to 100+ students on advanced Excel features like VBA, Power Query, and INDEX-MATCH.\n- Oversaw 2,400 mini-projects simulating real-world business cases such as inventory control, sales forecasting, and financial modeling.\n\n\n\nThe Church of Jesus Christ of Latter-Day Saints — Salt Lake City, UT\nJul 2024 – Dec 2024\n- Partnered with finance and audit teams to improve monthly closing processes by analyzing trends and optimizing reporting workflows.\n- Used Power BI to build interactive visual reports, reducing unresolved transactions by 30%.\n- Audited 500+ financial transactions daily, resolving discrepancies and contributing to regulatory compliance and process improvements.\n\n\n\nBrigham Young University–Idaho — Rexburg, ID\nJan 2024 – Apr 2024\n- Mentored students in using Power BI and Tableau to deliver clear data-driven narratives.\n- Reviewed and coached 100+ business analysis projects, emphasizing insight generation and actionable recommendations.\n\n\n\nBrigham Young University–Idaho — Rexburg, ID\nDec 2021 – Jan 2024\n- Administered and processed 5,000+ federal and institutional aid packages in full compliance with policy.\n- Conducted thorough audits on student accounts to catch errors and enforce eligibility rules.\n- Provided front-line financial counseling to students while ensuring data accuracy and confidentiality."
+  },
+  {
+    "objectID": "resume.html#tools-skills",
+    "href": "resume.html#tools-skills",
+    "title": "Esther Calderon Batista",
+    "section": "",
+    "text": "Data Cleaning & Preparation\n\nBusiness Intelligence (BI) Reporting\n\nDashboard Development\n\nForecasting & Statistical Analysis\n\nData Storytelling & Insight Generation\n\n\n\n\n\nPower BI (DAX)\n\nTableau\n\nExcel (Advanced: VBA, Power Query, INDEX-MATCH)\n\nSQL\n\nPython (Pandas)\n\nR (tidyverse)\n\n\n\n\n\nFinancial Modeling\n\nCompliance Review\n\nAudit Procedures\n\nFederal Financial Aid Calculations\n\n\n\n\n\nSlack\n\nGitHub\n\nGoogle Workspace\n\nMicrosoft Teams\n\n\n\n\n\nEnglish (Fluent)\n\nSpanish (Native)"
+  },
+  {
+    "objectID": "resume.html#looking-for",
+    "href": "resume.html#looking-for",
+    "title": "Esther Calderon Batista",
+    "section": "",
+    "text": "As a soon-to-be Business Analytics graduate, I am actively seeking remote or hybrid opportunities—whether based in the U.S. or internationally—that allow me to grow as an analyst while making a real impact through data. I’m open to diverse roles such as:\n\nBusiness Analyst\n\nData Analyst\n\nFinancial Analyst\n\nCorporate Strategy Analyst\n\nOperations or Forecasting Analyst\n\nI’m particularly excited about positions that involve forecasting, financial modeling, and trend analysis, as I’ve discovered a strong passion for anticipating business outcomes through historical data and visual storytelling. Whether it’s optimizing processes, guiding strategic decisions, or identifying performance drivers, I love using tools like Excel, SQL, and Python to explore the “why” behind the numbers.\nI’m also eager to explore industries that align with my personal interests, such as: - Fitness and wellness (tracking outcomes, program effectiveness) - Finance and investment (cash flow insights, budgeting models) - Consumer products and cosmetics (analyzing trends, user engagement) - Social media and digital platforms (audience metrics, engagement patterns)\nI thrive in environments that encourage curiosity, cross-functional collaboration, and continuous learning. I’m especially drawn to remote-first companies that value diversity, mentorship, and innovation.\nIf you’re looking for a motivated, tech-savvy analyst who brings energy, empathy, and a strong data foundation—I’m ready to contribute and grow with your team."
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
-      "Project 3"
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
     ]
   }
 ]
