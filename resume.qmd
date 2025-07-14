@@ -9,10 +9,9 @@ Business Analytics minor Finance.
 
 <div id="webaddress">
   <a href="mailto:esthercalderonb03@gmail.com">esthercalderonb03@gmail.com</a> |
-  <a href="www.linkedin.com/in/esther-calderon">LinkedIn Profile</a> |
+  <a href="https://www.linkedin.com/in/esther-calderon">LinkedIn Profile</a> |
   <a href="https://github.com/EstherCalderonB">GitHub</a>
 </div>
-
 
 ## Currently
 
